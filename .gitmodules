@@ -12,4 +12,4 @@
 	url = https://github.com/buildroot/buildroot.git
 [submodule "third-party/registers-generator"]
 	path = third-party/registers-generator
-	url = ../wd-nvme-registers-generator.git
+	url = ../nvme-registers-generator.git
